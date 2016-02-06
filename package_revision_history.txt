@@ -1,2 +1,6 @@
 ubuntu 14.04 LTS  ( mac os pararells)
+sudo apt-get install gnome-session-fallback
+
+
+
 
